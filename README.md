@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
 Usage
 ```bash
-python3 script.py <path-to-xenium-bundle> <path-to-output-files>
+python3 subset_data.py <path-to-xenium-bundle> <path-to-output-files>
 ```
 
 Contact <br>
